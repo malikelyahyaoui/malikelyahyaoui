@@ -27,7 +27,7 @@ graph TD;
 
 
 SOCIAL MEDIA:<br>
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev):https://www.linkedin.com/in/abdelmalik-el-yahyaoui
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev):https://www.linkedin.com/in/abdelmalik-el-yahyaoui-59b0b232b/
 
 
 
